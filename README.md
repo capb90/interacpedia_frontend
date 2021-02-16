@@ -1,4 +1,4 @@
-# vuetify-proyecto semana 5
+# vuetify-proyecto
 ```
 se agrego el componente usuario y se utlizo nuevamente vuetify como planilla para gestionar el componente.
 ```
