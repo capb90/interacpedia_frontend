@@ -10,7 +10,7 @@
         >
           <v-toolbar-title style="width: 300px" class="ml-0 pl-3">
             <v-app-bar-nav-icon :to="{ name: 'sistem' }"></v-app-bar-nav-icon>
-            <span class="hidden-sm-and-down">Sistema</span>
+            <span class="hidden-sm-and-down">Principal</span>
           </v-toolbar-title>
           <v-spacer></v-spacer>
 
